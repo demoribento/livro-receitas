@@ -18,7 +18,7 @@
  - Pimenta do reino a gosto
  - 1 ou 2 laranjas
  - 40 ml de de pinga
- - Sal se precisar
+ - Sal a gosto
 
 ###MODO DE PREPARO
 Coloque as carnes de molho por 36 horas ou mais, vá trocando a água várias vezes, se for ambiente quente ou verão, coloque gelo por cima ou em camadas frias.
