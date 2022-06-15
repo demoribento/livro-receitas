@@ -1,4 +1,4 @@
-#Livro de receitas :pig
+# Livro de receitas
 
 Olá! Bem vindo ao livro de receitas.
  - Feijoada
